@@ -1,5 +1,5 @@
 # hello
-Intro project 
+Intro to me. 
 
 Hello my fellow beings.
 
